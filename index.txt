@@ -7,8 +7,11 @@
 	</head>
 	<body>
 		<h1>Olá Pessoal!</h1>
+		<button onclick="firstcommit()">CLICK-ME</button>
 		<script>
-			alert("Hello Guys!")
+			Function fistcommit(){ 
+				alert("Hello Guys!");
+				}
 		</script>
 	</body>
 </html>
