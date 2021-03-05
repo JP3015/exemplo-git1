@@ -1,2 +1,14 @@
 <!-- DTD = Document Type Definition! -->
 <!Doctype html>
+<html>
+	<head>
+		<meta charset="URF-8">
+		<title>EXEMPLO</title>
+	</head>
+	<body>
+		<h1>Olá Pessoal!</h1>
+		<script>
+			alert("Hello Guys!")
+		</script>
+	</body>
+</html>
